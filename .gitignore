@@ -1,0 +1,10 @@
+# clasp（scriptId などローカル固有の設定を含むため除外）
+.clasp.json
+.clasprc.json
+
+# 依存パッケージ
+node_modules/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
